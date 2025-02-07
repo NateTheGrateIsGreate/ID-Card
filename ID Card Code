@@ -1,0 +1,388 @@
+SA_name = str ("Shahood Avire")  # Shahood veribals
+
+SA_age = float (17)
+
+SA_driversIicense = (False)
+
+SA_email = str ("267741@burlcoschools.org")
+
+SA_grade = float (11)
+
+
+MB_name = str ("Masion Bush")   # Masion veribals
+
+MB_age = float (17)
+
+MB_driversIicense = (False)
+
+MB_email = str ("268262@burlcoschools.org")
+
+MB_grade = float (11)
+
+
+NC_name = str ("Nathan Carn")   # Nathan veribals
+
+NC_age = float (16)
+
+NC_driversIicense = (False)
+
+NC_email = str ("268021@burlcoschools.org")
+
+NC_grade = float (11)
+
+
+GC_name = str ("Gavin Carnival")   # Gavin veribals
+
+GC_age = float (17)
+
+GC_driversIicense = (True)
+
+GC_email = str ("267764@burlcoschools.org")
+
+GC_grade = float (11)
+
+
+MD_name = str ("Muntag Diallo")   # Muntag veribals
+
+MD_age = float (16)
+
+MD_driversIicense = (False)
+
+MD_email = str ("268164@burlcoschools.org")
+
+MD_grade = float (11)
+
+
+LH_name = str ("leo Hart")   # leo veribals
+
+LH_age = float (17)
+
+LH_driversIicense = (True)
+
+LH_email = str ("268095@burlcoschools.org")
+
+LH_grade = float (11)
+
+
+CH_name = str ("Christopher Hodson")   # Christopher veribals
+
+CH_age = float (17)
+
+CH_driversIicense = (False)
+
+CH_email = str ("268369@burlcoschools.org")
+
+CH_grade = float (11)
+
+
+MP_name = str ("Marcos Paulino")   # Marcos veribals
+
+MP_age = float (16)
+
+MP_driversIicense = (False)
+
+MP_email = str ("267895@burlcoschools.org")
+
+MP_grade = float (11)
+
+
+JR_name = str ("Jaiden Rankus")   # Jaiden veribals
+
+JR_age = float (16)
+
+JR_driversIicense = (False)
+
+JR_email = str ("268188@burlcoschools.org")
+
+JR_grade = float (11)  
+
+
+AR_name = str ("Aidan Rodriguez")   # Aidan veribals
+
+AR_age = float (17)
+
+AR_driversIicense = (False)
+
+AR_email = str ("267922@burlcoschools.org")
+
+AR_grade = float (11)
+
+
+RS_name = str ("Ryan Stiles")   # Ryan veribals
+
+RS_age = float (17)
+
+RS_driversIicense = (True)
+
+RS_email = str ("267647@burlcoschools.org")
+
+RS_grade = float (11)
+
+
+print("----------------------------------------------------------") #Shahood's Id card
+
+print("----------------------ID---Card---------------------------")
+
+print("----------------------------------------------------------")
+
+print(f"Name: {SA_name}")
+
+print(f"Age: {SA_age}")
+
+print(f" Has Drivers license: {SA_driversIicense}")
+
+print(f"Email Adresss: {SA_email}")
+
+print(f"Grade: {SA_grade}")
+
+print("----------------------------------------------------------")
+
+print("")
+
+print("")
+
+
+print("----------------------------------------------------------") #Masion's Id card
+
+print("----------------------ID---Card---------------------------")
+
+print("----------------------------------------------------------")
+
+print(f"Name: {MB_name}")
+
+print(f"Age: {MB_age}")
+
+print(f" Has Drivers license: {MB_driversIicense}")
+
+print(f"Email Adresss: {MB_email}")
+
+print(f"Grade: {MB_grade}")
+
+print("")
+
+print("")
+
+
+print("----------------------------------------------------------") #Nathan's Id card
+
+print("----------------------------------------------------------")
+
+print("----------------------ID---Card---------------------------")
+
+print("----------------------------------------------------------")
+
+print(f"Name: {NC_name}")
+
+print(f"Age: {NC_age}")
+
+print(f" Has Drivers license: {NC_driversIicense}")
+
+print(f"Email Adresss: {NC_email}")
+
+print(f"Grade: {NC_grade}")
+
+print("----------------------------------------------------------")
+
+print("")
+
+print("")
+
+
+print("----------------------------------------------------------") #Gavins's Id card
+
+print("----------------------------------------------------------")
+
+print("----------------------ID---Card---------------------------")
+
+print("")
+
+print("")
+
+print("----------------------------------------------------------")
+
+print(f"Name: {GC_name}")
+
+print(f"Age: {GC_age}")
+
+print(f" Has Drivers license: {GC_driversIicense}")
+
+print(f"Email Adresss: {GC_email}")
+
+print(f"Grade: {GC_grade}")
+
+print("----------------------------------------------------------")
+
+print("")
+
+print("")
+
+
+print("----------------------------------------------------------") #Muntag's Id card
+
+print("----------------------------------------------------------")
+
+print("----------------------ID---Card---------------------------")
+
+print("----------------------------------------------------------")
+
+print(f"Name: {MD_name}")
+
+print(f"Age: {MD_age}")
+
+print(f" Has Drivers license: {MD_driversIicense}")
+
+print(f"Email Adresss: {MD_email}")
+
+print(f"Grade: {MD_grade}")
+
+print("----------------------------------------------------------")
+
+print("")
+
+print("")
+
+
+print("----------------------------------------------------------") #Leo's Id card
+
+print("----------------------------------------------------------")
+
+print("----------------------ID---Card---------------------------")
+
+print("----------------------------------------------------------")
+
+print(f"Name: {LH_name}")
+
+print(f"Age: {LH_age}")
+
+print(f" Has Drivers license: {LH_driversIicense}")
+
+print(f"Email Adresss: {LH_email}")
+
+print(f"Grade: {LH_grade}")
+
+print("----------------------------------------------------------")
+
+print("")
+
+print("")
+
+
+print("----------------------------------------------------------") #Christopher's Id card
+
+print("----------------------------------------------------------")
+
+print("----------------------ID---Card---------------------------")
+
+print("----------------------------------------------------------")
+
+print(f"Name: {CH_name}")
+
+print(f"Age: {CH_age}")
+
+print(f" Has Drivers license: {CH_driversIicense}")
+
+print(f"Email Adresss: {CH_email}")
+
+print(f"Grade: {CH_grade}")
+
+print("----------------------------------------------------------")
+
+print("")
+
+print("")
+
+
+print("----------------------------------------------------------") #Marcos's Id card
+
+print("----------------------------------------------------------")
+
+print("----------------------ID---Card---------------------------")
+
+print("----------------------------------------------------------")
+
+print(f"Name: {MP_name}")
+
+print(f"Age: {MP_age}")
+
+print(f" Has Drivers license: {MP_driversIicense}")
+
+print(f"Email Adresss: {MP_email}")
+
+print(f"Grade: {MP_grade}")
+
+print("----------------------------------------------------------")
+
+print("")
+
+print("")
+
+
+print("----------------------------------------------------------") #Jayden's Id card
+
+print("----------------------------------------------------------")
+
+print("----------------------ID---Card---------------------------")
+
+print("----------------------------------------------------------")
+
+print(f"Name: {JR_name}")
+
+print(f"Age: {JR_age}")
+
+print(f" Has Drivers license: {JR_driversIicense}")
+
+print(f"Email Adresss: {JR_email}")
+
+print(f"Grade: {JR_grade}")
+
+print("----------------------------------------------------------")
+
+print("")
+
+print("")
+
+
+print("----------------------------------------------------------") #Aiden's Id card
+
+print("----------------------------------------------------------")
+
+print("----------------------ID---Card---------------------------")
+
+print("----------------------------------------------------------")
+
+print(f"Name: {AR_name}")
+
+print(f"Age: {AR_age}")
+
+print(f" Has Drivers license: {AR_driversIicense}")
+
+print(f"Email Adresss: {AR_email}")
+
+print(f"Grade: {AR_grade}")
+
+print("----------------------------------------------------------")
+
+print("")
+
+print("")
+
+
+print("----------------------------------------------------------") #Ryan's Id card
+
+print("----------------------------------------------------------")
+
+print("----------------------ID---Card---------------------------")
+
+print("----------------------------------------------------------")
+
+print(f"Name: {RS_name}")
+
+print(f"Age: {RS_age}")
+
+print(f" Has Drivers license: {RS_driversIicense}")
+
+print(f"Email Adresss: {RS_email}")
+
+print(f"Grade: {RS_grade}")
+
+print("----------------------------------------------------------")
